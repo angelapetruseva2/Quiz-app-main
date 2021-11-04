@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-It's a responsive web application built using React.js, Martial-UI and a third pary API named "quizapi.io".
+It's a responsive web application built using React.js, Martial-UI and a third party API named "quizapi.io".
 
 # How to develop it
 
