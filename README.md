@@ -11,10 +11,8 @@ It's a responsive web application built using React.js, Martial-UI and a third p
 - Run `npm run build` for a production build
 
 -fix the required kaj radio buttons
--bash? uncategorized? da proveram dali e do apito
--categories mi se menat celo vreme poso ne znam kako da gi izlistam site prasanja, zeam samo segment celo vreme
--da go smenam selecto
--nav, i/ili celosno design
+-da gi sredam problemite so apito(da gi isfiltriram tie sto se povtoruvaat, bash? uncategorized, CATEGORIES)
+-da go smenam select, nav, i/ili celosno design
 -event listener za da succeess ako e povise od 50%
 -routes
 -da filtriram i po tags

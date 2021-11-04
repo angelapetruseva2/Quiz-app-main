@@ -187,7 +187,7 @@ const QuizFilters = () => {
                     id="quiz-number"
                     variant="outlined"
                     name="quiz-number"
-                    label={`Number of questions from 1 to 10`}
+                    label={`Number of questions (1-10):`}
                     value={quizNumber || ""}
                     onChange={handleChange}
                   />
